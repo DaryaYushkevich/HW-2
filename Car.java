@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class Car {
 
     public static void main(String[] args) {
        /* 1) Класс "Car" представляет собой автомобиль.
